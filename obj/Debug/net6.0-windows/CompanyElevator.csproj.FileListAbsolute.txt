@@ -1,0 +1,38 @@
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.exe
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.deps.json
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.runtimeconfig.json
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.dll
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.pdb
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.AssemblyReference.cache
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.ElevatorControl.resources
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.GenerateResource.cache
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.AssemblyInfoInputs.cache
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.AssemblyInfo.cs
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.CoreCompileInputs.cache
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.dll
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\refint\CompanyElevator.dll
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.pdb
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.genruntimeconfig.cache
+D:\Uni Work\Cs\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\ref\CompanyElevator.dll
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.exe
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.deps.json
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.runtimeconfig.json
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.dll
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\CompanyElevator.pdb
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.AssemblyReference.cache
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.ElevatorControl.resources
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.GenerateResource.cache
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.AssemblyInfoInputs.cache
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.AssemblyInfo.cs
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.CoreCompileInputs.cache
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.dll
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\refint\CompanyElevator.dll
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.pdb
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.genruntimeconfig.cache
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\ref\CompanyElevator.dll
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.csproj.CopyComplete
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\obj\Debug\net6.0-windows\CompanyElevator.ElevatorLogViewer.resources
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Uni Work\Software Engineering\Assignment 1\CompanyElevator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
